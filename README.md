@@ -99,10 +99,6 @@ The USV is trained with **PPO** to reposition itself during the UAV mission and 
 
 `ROS 2` · `Gazebo` · `VRX` · `MOOS-IvP` · `ArduPilot SITL` / `MAVROS` · `Python` · `C++` · `Gymnasium` · `Stable-Baselines3 (PPO)` · `Docker` · `Zenoh`
 
-## My role
-
-I did all of the work in this project: problem formulation, the localization pipeline, the geometry-aware noise model, the QP projection, the Gymnasium environment and PPO training, the MOOS-IvP behaviors and HITL integration, the containerized simulation setup, and the experiments. It was built on the lab's simulation and vehicle infrastructure.
-
 ## Links
 
 - 📄 Thesis (in Chinese, English abstract): [NYCU Thesis Repository](https://thesis.lib.nycu.edu.tw/items/641c364e-b297-47e4-8ace-23b657a1e038)
